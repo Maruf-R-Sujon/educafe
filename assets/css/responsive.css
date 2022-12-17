@@ -1,0 +1,27 @@
+@media only screen and (max-width:1250px){
+
+    .slider-text {
+        position: absolute;
+        top: 38%;
+        left: 59%;
+    }
+}
+@media only screen and (max-width:1157px){
+
+    .slider-text {
+        position: absolute;
+        top: 33%;
+        left: 57%;
+        display: none;
+    }
+}
+
+@media only screen and (max-width:1092px){
+
+    .slider-text {
+        position: absolute;
+        top: 22%;
+        left: 53%;
+    }
+}
+
